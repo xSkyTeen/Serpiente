@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+keyboard
+supabase
+python-dotenv
+requests
+flask
+flask-cors
+pyzmq

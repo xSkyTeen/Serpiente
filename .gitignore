@@ -1,0 +1,22 @@
+# Archivos comprimidos y backups
+*.zip
+*.rar
+*.7z
+
+# Modelos de IA pesados (si quieres subirlos, avisa para usar LFS, pero por ahora ignóralos)
+*.pt
+*.pth
+*.onnx
+
+# Entornos y logs
+.idea/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# Si tu frontend es web (React/Vue/etc), ignora esto también:
+node_modules/
+dist/
+build/
